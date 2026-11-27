@@ -11,5 +11,11 @@
     "tiers": {
       "smp": "LT1"
     }
+  },
+  {
+    "name": "nigerman",
+    "tiers": {
+      "nethop": "LT5"
+    }
   }
 ]
