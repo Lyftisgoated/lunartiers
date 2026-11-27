@@ -13,7 +13,9 @@
       "pot": "HT1",
       "nethop": "HT1"
     },
-    "retired": []
+    "retired": [
+      "uhc"
+    ]
   },
   {
     "name": "marlowww",
