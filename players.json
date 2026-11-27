@@ -2,7 +2,8 @@
   {
     "name": "v396",
     "tiers": {
-      "vanilla": "HT1"
+      "vanilla": "HT1",
+      "uhc": "HT1"
     }
   }
 ]
