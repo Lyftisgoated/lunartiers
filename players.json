@@ -5,5 +5,11 @@
       "vanilla": "HT1",
       "uhc": "HT1"
     }
+  },
+  {
+    "name": "qmanez",
+    "tiers": {
+      "smp": "LT1"
+    }
   }
 ]
