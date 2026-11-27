@@ -1,17 +1,5 @@
 [
   {
-    "name": "v396",
-    "tiers": {
-      "pot": "HT1",
-      "nethop": "HT1"
-    },
-    "peak": {
-      "pot": "HT1",
-      "nethop": "HT1"
-    },
-    "retired": []
-  },
-  {
     "name": "marlowww",
     "tiers": {
       "vanilla": "HT1"
@@ -28,6 +16,16 @@
     },
     "peak": {
       "vanilla": "HT1"
+    },
+    "retired": []
+  },
+  {
+    "name": "v396",
+    "tiers": {
+      "nethop": "HT1"
+    },
+    "peak": {
+      "nethop": "HT1"
     },
     "retired": []
   },
