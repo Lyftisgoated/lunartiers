@@ -1,11 +1,5 @@
 [
   {
-    "name": "v396",
-    "tiers": {
-      "uhc": "HT1"
-    }
-  },
-  {
     "name": "qmanez",
     "tiers": {
       "smp": "LT1"
