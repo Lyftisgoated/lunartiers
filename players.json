@@ -4,5 +4,11 @@
     "tiers": {
       "vanilla": "LT1"
     }
+  },
+  {
+    "name": "tradingtae1",
+    "tiers": {
+      "sword": "LT3"
+    }
   }
 ]
