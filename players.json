@@ -2,18 +2,14 @@
   {
     "name": "v396",
     "tiers": {
-      "uhc": "HT1",
       "pot": "HT1",
       "nethop": "HT1"
     },
     "peak": {
-      "uhc": "HT1",
       "pot": "HT1",
       "nethop": "HT1"
     },
-    "retired": [
-      "uhc"
-    ]
+    "retired": []
   },
   {
     "name": "marlowww",
