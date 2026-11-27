@@ -3,7 +3,8 @@
     "name": "v396",
     "tiers": {
       "vanilla": "LT1",
-      "uhc": "HT1"
+      "uhc": "HT1",
+      "pot": "HT1"
     }
   },
   {
