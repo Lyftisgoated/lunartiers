@@ -6,24 +6,43 @@
       "uhc": "HT1",
       "pot": "HT1",
       "nethop": "HT1"
-    }
+    },
+    "peak": {
+      "vanilla": "HT1",
+      "uhc": "HT1",
+      "pot": "HT1",
+      "nethop": "HT1"
+    },
+    "retired": []
   },
   {
     "name": "marlowww",
     "tiers": {
       "vanilla": "HT1"
-    }
+    },
+    "peak": {
+      "vanilla": "HT1"
+    },
+    "retired": []
   },
   {
     "name": "tradingtae",
     "tiers": {
       "vanilla": "HT1"
-    }
+    },
+    "peak": {
+      "vanilla": "HT1"
+    },
+    "retired": []
   },
   {
     "name": "tradingtae1",
     "tiers": {
       "sword": "LT3"
-    }
+    },
+    "peak": {
+      "sword": "LT3"
+    },
+    "retired": []
   }
 ]
