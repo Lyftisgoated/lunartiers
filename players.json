@@ -20,16 +20,6 @@
     "retired": []
   },
   {
-    "name": "v396",
-    "tiers": {
-      "nethop": "HT1"
-    },
-    "peak": {
-      "nethop": "HT1"
-    },
-    "retired": []
-  },
-  {
     "name": "tradingtae1",
     "tiers": {
       "sword": "LT3"
