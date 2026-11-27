@@ -39,7 +39,9 @@
     "peak": {
       "vanilla": "HT1"
     },
-    "retired": []
+    "retired": [
+      "vanilla"
+    ]
   },
   {
     "name": "tradingtae1",
