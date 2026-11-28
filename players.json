@@ -1,17 +1,5 @@
 [
   {
-    "name": "v396",
-    "tiers": {
-      "vanilla": "HT1"
-    },
-    "peak": {
-      "vanilla": "HT1"
-    },
-    "retired": [
-      "vanilla"
-    ]
-  },
-  {
     "name": "tradingtae1",
     "tiers": {
       "sword": "LT3"
