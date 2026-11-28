@@ -1,17 +1,5 @@
 [
   {
-    "name": "_ST0rms_LL_",
-    "tiers": {
-      "vanilla": "HT1"
-    },
-    "peak": {
-      "vanilla": "HT1"
-    },
-    "retired": [
-      "vanilla"
-    ]
-  },
-  {
     "name": "tradingtae",
     "tiers": {
       "vanilla": "HT1"
