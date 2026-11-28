@@ -1,15 +1,5 @@
 [
   {
-    "name": "tradingtae",
-    "tiers": {
-      "vanilla": "HT1"
-    },
-    "peak": {
-      "vanilla": "HT1"
-    },
-    "retired": []
-  },
-  {
     "name": "v396",
     "tiers": {
       "vanilla": "HT1"
